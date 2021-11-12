@@ -10,7 +10,7 @@ author: dan reuben // @stuffthatsthere
 Large wall sconces flank faded taspestries along the West wall. Each tapestry depicts a god figure in discinct themes of action, horror, and romance. Deep grooves cut into the tile floor arc out from the South wall where a skeleton is found clutching a piece of gold leafed parchment. An obsidian door with a pearl handle is set into the East wall.
 
 - Stairs to the North decend into room 1.
-- Simple door to the East leading into room 2.
+- Door to the East leading into room 2.
 - Secret door to the South that can only be opened from the opposite side.
 
 ## 2 - Reception
