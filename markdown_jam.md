@@ -22,7 +22,7 @@ Duis sunt elit adipisicing sint ullamco Lorem sunt. Dolor laborum id laborum nul
 
 ## 3a - Theater
 
-The room is dark. Upon entering light projects from a the ceiling onto the North wall. The East corridor and room 3b is not visible unless investgated with a light source. On the North wall an animatronic relief activates upon close inspection and plays out the story of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into 3b.
+The room is dark. Upon entering light projects from the ceiling onto the North wall. The East corridor and room 3b is not visible unless investgated with a light source. On the North wall an animatronic relief activates upon close inspection and plays out the story of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into 3b.
 
 - Detailed animatronic relief on the North wall.
 - Short corridor to the East leading into room 3b.
