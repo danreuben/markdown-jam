@@ -3,7 +3,7 @@ title: Wanting God of the Incoherent Sky
 author: dan reuben // @stuffthatsthere
 ---
 
-![map](images\alter-of-the-wanting-god.svg)
+![map](images\dungeon-map.svg)
 
 ## 1 - Entrance
 
