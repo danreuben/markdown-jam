@@ -225,7 +225,8 @@ header{
     line-height:2.475em;
     padding-bottom:0.7em;
     border-bottom:1px solid #bbb;
-    margin-bottom:1.2em
+    margin-bottom:1.2em;
+    text-align: center;
 }
 header>h1{
     border:none;
