@@ -13,9 +13,9 @@ Large wall sconces flank faded taspestries along the West wall. Each tapestry de
 - Door to the East leading into room 2.
 - Secret door to the South that can only be opened from the opposite side.
 
-## 2 - Reception
+## 2 - Parlor
 
-Duis sunt elit adipisicing sint ullamco Lorem sunt. Dolor laborum id laborum nulla adipisicing fugiat irure et eu amet consectetur mollit incididunt exercitation. Non nulla excepteur eu laboris proident irure. Ut esse ea esse magna velit minim nostrud excepteur nisi elit laborum esse. Cillum consequat mollit veniam qui eiusmod cupidatat nostrud occaecat non culpa dolore.
+The room is dimly lit and contains multiple seating areas of various configurations. A mirror backed bar spans the East wall. Mannequins are positioned individually in the acts of libation, dance, and conversation throughout the room.
 
 - Door to the North leading into room 3.
 - Magically locked door to the South leading into room 4.
