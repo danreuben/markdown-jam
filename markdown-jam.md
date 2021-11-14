@@ -7,7 +7,7 @@ author: dan reuben // @stuffthatsthere
 
 ## 1 - Entrance
 
-Large wall sconces flank faded taspestries along the West wall. Each tapestry depicts a god figure in discinct themes of action, horror, and romance. Deep grooves cut into the tile floor arc out from the South wall where a skeleton is found clutching a piece of gold leafed parchment. An obsidian door with a pearl handle is set into the East wall.
+Large wall sconces flank faded taspestries along the West wall. Each tapestry depicts a god figure in discinct themes of action, horror, and romance. A deep groove cut into the tile floor arcs out from the South wall where a skeleton is found clutching a piece of gold leafed parchment. An obsidian door with a pearl handle is set into the East wall.
 
 - Stairs to the North decend into room 1.
 - Door to the East leading into room 2.
@@ -20,17 +20,25 @@ The room is dimly lit and contains multiple seating areas of various configurati
 - Door to the North leading into room 3.
 - Magically locked door to the South leading into room 4.
 
+### Puppet Maker
+
+> Attempts to take position disguised as an additional mannequin in the parlor while the show plays out in the theater.
+
 ## 3a - Theater
 
-The room is dark. Upon entering light projects from the ceiling onto the North wall. The East corridor and room 3b is not visible unless investgated with a light source. On the North wall an animatronic relief activates upon close inspection and plays out the story of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into 3b.
+The room is dark. Upon entering light projects from the ceiling onto the North wall revealing surreal scene of characters carved into wooden panels and brightly painted. The East corridor and room 3b is not visible unless investgated with a light source. The wood panels activate with mechanical hums and clicks upon close inspection. Wooden puppets pop out of the wall and play out the story of the Wanting God of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into 3b.
 
 - Detailed animatronic relief on the North wall.
 - Short corridor to the East leading into room 3b.
 - A dome mirrored on the inside mounted to the ceiling.
 
+### Murderous puppets
+
+> Attacks any player that attempts to steal from or harm the Puppet Maker.
+
 ## 3b - Offering
 
-Any investigation into this room before the show in 3a completes is shrouded in darkness and the chest is locked. As the show completes the room lights up from a trough of fire oil lining the floor on all sides and the chest unlocks. Upon investigation the chest is filled with various items. Anything taken from the chest triggers the animatronic puppets in 3a to seek out and attack any culprits. A new item of value must be placed in the chest to unlock the South door in room 2.
+Any investigation into this room before the show in 3a completes is shrouded in darkness and the chest is locked. As the show completes the room lights up from a trough of fire oil lining the floor on all sides and the chest unlocks. Upon investigation the chest contains **[d6]** item belonging to the Wanting God. Anything taken from the chest triggers the puppets in 3a to seek out and attack the culprit. A new item of value may be placed in the chest in tribute to the Wanting God.
 
 - Large chest of various items.
 - Trough of fire oil.
@@ -44,7 +52,7 @@ Any investigation into this room before the show in 3a completes is shrouded in 
 |  5  | folding fan   | depicts a pair of running bulls   |
 |  6  | small box     | elaborate puzzle that rattles     |
 
-## 4a - Laboratory
+## 4a - Workshop
 
 Veniam fugiat elit aliquip velit magna ut ut aliqua elit nostrud excepteur velit irure duis. Eu aute qui culpa mollit occaecat commodo eu dolore esse minim. Id magna aute consectetur nostrud tempor. Veniam occaecat exercitation excepteur eu. Aute nulla quis amet nisi ullamco nostrud est labore incididunt. Duis commodo fugiat aute minim Lorem irure ad irure proident magna amet laborum. Sunt anim ad anim incididunt irure consectetur exercitation dolore Lorem reprehenderit.
 
