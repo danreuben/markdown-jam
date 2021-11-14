@@ -26,7 +26,7 @@ The room is dimly lit and contains multiple seating areas of various configurati
 
 ## 3a - Theater
 
-The room is dark. Upon entering light projects from the ceiling onto the North wall revealing surreal scene of characters carved into wooden panels and brightly painted. The East corridor and room 3b is not visible unless investgated with a light source. The wood panels activate with mechanical hums and clicks upon close inspection. Wooden puppets pop out of the wall and play out the story of the Wanting God of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into 3b.
+The room is dark. Upon entering light projects from the ceiling onto the North wall revealing a surreal scene of characters carved into wooden panels and brightly painted. The East corridor and room 3b is not visible unless investgated with a light source. The wood panels activate with mechanical hums and clicks when all players have entered the theater. Wooden puppets pop out of the wall and play out the story of the Wanting God of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into 3b.
 
 - Detailed animatronic relief on the North wall.
 - Short corridor to the East leading into room 3b.
