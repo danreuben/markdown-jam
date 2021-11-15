@@ -12,11 +12,11 @@ Large wall sconces flank faded taspestries along the West wall. Each tapestry de
 - Stairs to the North decend into room 1.
 - Door to the East leading into room 2.
 - Skeleton alarm system.
-- Secret door to the South that can only be opened from the opposite side connects to room 4c.
+- Secret passageway to the South that can only be opened from the opposite side connects to room 4c.
 
 ## 2 - Parlor
 
-The room is dimly lit and contains multiple seating areas of various configurations atop large mismatched rugs. A cracked mirror backed bar spans the East wall. Mannequins are positioned individually in the acts of libation, dance, and conversation throughout the room.
+The room is dimly lit and contains multiple seating areas of various configurations atop large mismatched rugs. A mirror backed bar spans the East wall. Mannequins are positioned individually in the acts of libation, dance, and conversation throughout the room.
 
 - Door to the North leading into room 3.
 - Locked door to the South leading into room 4a.
@@ -28,7 +28,7 @@ The room is dimly lit and contains multiple seating areas of various configurati
 
 ## 3a - Theater
 
-The room is dark. Upon entering light projects from the ceiling onto the North wall revealing a surreal scene of characters carved into wooden panels and brightly painted. The East corridor and beyond is not visible unless investgated with a light source. The wood panels activate with mechanical hums and clicks when all players have entered the theater. *Puppets* pop out of the wall and play out the story of the Wanting God of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into the offering room and the *puppets* reset into the wood panels.
+The room is dark. Upon entering light projects from the ceiling onto the North wall revealing a surreal scene of brightly painted characters carved into wooden panels. The East corridor and beyond is not visible unless investgated with a light source. The wood panels activate with mechanical hums and clicks when all players have entered the theater. *Puppets* pop out of the wall and play out the story of the Wanting God of the Incoherent Sky. As the show ends the spotlight pivots to reveal the entrance into the offering room and the *puppets* reset into the wood panels.
 
 - Detailed wooden relief on the North wall.
 - Short corridor to the East leading into room 3b.
@@ -40,7 +40,7 @@ The room is dark. Upon entering light projects from the ceiling onto the North w
 
 ## 3b - Offering
 
-Any investigation into this room before the show in 3a completes is shrouded in darkness and the chest is locked. As the show completes the room lights up from a trough of fire oil lining the floor on all sides and the chest unlocks. Upon investigation the chest contains **[d6 item]** per player belonging to the *Puppet Maker*. Anything taken from the chest triggers the *puppets* in 3a to seek out and attack the culprit. A new item of value may be placed in the chest in tribute to the Wanting God.
+Any investigation into this room before the show in 3a completes is shrouded in darkness and the chest is locked. As the show completes the room lights up from a trough of fire oil lining the floor on all sides and the chest unlocks. Upon investigation the chest contains **[d6 item]** per player belonging to the *Puppet Maker*. Anything taken from the chest triggers the *puppets* in the theather (3a) to seek out and attack the culprit. A new item of value may be placed in the chest in tribute to the Wanting God.
 
 - Large chest of various items.
 - Trough of fire oil.
@@ -60,7 +60,7 @@ Large tanks containing mystical energies are jumbled in the South East corner. B
 
 ## 4b - Altar
 
-Aute dolore veniam et eiusmod occaecat ad voluptate excepteur ullamco occaecat irure eu. Dolor reprehenderit dolore fugiat esse culpa do aute. Do et elit sunt et tempor officia minim id Lorem consectetur Lorem ad consequat amet.
+A bundle of bulky conduits snake their way along the South wall and connect into the altar on the West wall.
 
 ### Giant Puppet
 
@@ -68,7 +68,7 @@ Aute dolore veniam et eiusmod occaecat ad voluptate excepteur ullamco occaecat i
 
 ## 4c - Storage
 
-Bins of unfinshed wood scraps line the South wall. A large net containing the *Puppet Maker's* many failed creations hangs across the ceiling. A passageway into the entrance (1) is accessible in the North West corner by lifing a simple latch and pusing outward on the wall.
+Bins of unfinshed wood scraps line the South wall. A large net containing the *Puppet Maker's* many failed creations hangs across the ceiling. A passageway leading to the entrance (1) is accessible in the North West corner by lifting a simple latch and pusing outward on the wall.
 
 - Passageway leading to room 1.
 - Net of failed creations ready to collapse.
