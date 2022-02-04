@@ -1,4 +1,0 @@
-{
-    "editor.insertSpaces": false,
-    "pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css"
-}
